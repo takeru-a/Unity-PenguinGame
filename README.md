@@ -32,3 +32,4 @@ Webカメラでハンドトラッキングを行うことで、指の動きに�
 [効果音提供](https://taira-komori.jpn.org/arms01.html)<br>
 [BGM・音楽素材MusMus](https://musmus.main.jp)<br>
 [Mediapipe](https://google.github.io/mediapipe/)<br>
+[画像提供: DESIGNALIKIE](https://illustimage.com/?id=20845)<br>
