@@ -1,5 +1,6 @@
 # Unity-PenguinGame
 Unityと[Mediapipe](https://google.github.io/mediapipe/)を使用したゲームです。<br>
+このゲームは指自体をコントローラとして用います！<br>
 Webカメラでハンドトラッキングを行うことで、指の動きによるゲーム操作を可能にしています。<br>
 指をつまんだり、はなすことでペンギンが上下します。<br>
 ## 概要
