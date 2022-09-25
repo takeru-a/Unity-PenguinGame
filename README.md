@@ -35,3 +35,5 @@ Webカメラでハンドトラッキングを行うことで、指の動きに�
 [BGM・音楽素材MusMus](https://musmus.main.jp)<br>
 [Mediapipe](https://google.github.io/mediapipe/)<br>
 [画像提供: DESIGNALIKIE](https://illustimage.com/?id=20845)<br>
+# 技育展
+[スライド](https://docs.google.com/presentation/d/1jmuAKHrT01HWSSdPssVReBYptD3LV1BZSeuvlkckv1Q/edit#slide=id.g10f42b85138_2_327)<br>
